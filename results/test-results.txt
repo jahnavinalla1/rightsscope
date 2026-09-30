@@ -1,0 +1,12 @@
+test_break_even_fee_produces_zero_npv (test_model.DealTests.test_break_even_fee_produces_zero_npv) ... ok
+test_higher_baseline_hurts_exclusivity (test_model.DealTests.test_higher_baseline_hurts_exclusivity) ... ok
+test_invalid_payments_rejected (test_model.DealTests.test_invalid_payments_rejected) ... ok
+test_matching_fee_equals_best_alternative (test_model.DealTests.test_matching_fee_equals_best_alternative) ... ok
+test_walk_away_from_bad_deals (test_model.DealTests.test_walk_away_from_bad_deals) ... ok
+test_winner_can_change (test_model.DealTests.test_winner_can_change) ... ok
+test_zero_discount_matches_nominal (test_model.DealTests.test_zero_discount_matches_nominal) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

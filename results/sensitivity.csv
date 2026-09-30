@@ -1,0 +1,28 @@
+annual_discount_rate,baseline_scale,offer,incremental_npv
+0.06,0.7,A - Full-term exclusive,16.95392572793776
+0.06,0.7,B - Non-exclusive license,13.787927294483763
+0.06,0.7,C - Short exclusive window,16.75172003085669
+0.06,1,A - Full-term exclusive,9.573245474540037
+0.06,1,B - Non-exclusive license,11.942757231134335
+0.06,1,C - Short exclusive window,13.222045520086816
+0.06,1.3,A - Full-term exclusive,2.1925652211423157
+0.06,1.3,B - Non-exclusive license,10.097587167784903
+0.06,1.3,C - Short exclusive window,9.692371009316943
+0.1,0.7,A - Full-term exclusive,16.649498599700713
+0.1,0.7,B - Non-exclusive license,13.13794204024021
+0.1,0.7,C - Short exclusive window,16.34469476922255
+0.1,1,A - Full-term exclusive,9.683856376004567
+0.1,1,B - Non-exclusive license,11.396531484316174
+0.1,1,C - Short exclusive window,12.932527546278314
+0.1,1.3,A - Full-term exclusive,2.7182141523084216
+0.1,1.3,B - Non-exclusive license,9.655120928392138
+0.1,1.3,C - Short exclusive window,9.520360323334078
+0.14,0.7,A - Full-term exclusive,16.34421508728478
+0.14,0.7,B - Non-exclusive license,12.539773342078137
+0.14,0.7,C - Short exclusive window,15.958958349988166
+0.14,1,A - Full-term exclusive,9.750702103928187
+0.14,1,B - Non-exclusive license,10.89139509623899
+0.14,1,C - Short exclusive window,12.655117569945341
+0.14,1.3,A - Full-term exclusive,3.1571891205715925
+0.14,1.3,B - Non-exclusive license,9.24301685039984
+0.14,1.3,C - Short exclusive window,9.351276789902517

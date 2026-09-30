@@ -1,0 +1,224 @@
+{
+  "recommendation": "C - Short exclusive window",
+  "offers": [
+    {
+      "name": "A - Full-term exclusive",
+      "headline_fee": 42,
+      "incremental_npv": 9.683856376004567,
+      "break_even_fee": 30.177602458498644,
+      "fee_pv_factor": 0.8191110425791679,
+      "opportunity_pv": 23.218807412320484,
+      "incremental_undiscounted": 9.3,
+      "year1_incremental_cash": 6.6,
+      "periods": [
+        {
+          "half_year": 1,
+          "baseline": 6,
+          "fee_cash": 21.0,
+          "retained_catalog": 0,
+          "foregone_catalog": 6,
+          "incremental_net_cash": 13.5,
+          "discount_factor": 0.9534625892455922,
+          "present_value": 12.871744954815496
+        },
+        {
+          "half_year": 2,
+          "baseline": 6,
+          "fee_cash": 0,
+          "retained_catalog": 0,
+          "foregone_catalog": 6,
+          "incremental_net_cash": -5.4,
+          "discount_factor": 0.9090909090909091,
+          "present_value": -4.909090909090909
+        },
+        {
+          "half_year": 3,
+          "baseline": 5,
+          "fee_cash": 21.0,
+          "retained_catalog": 0,
+          "foregone_catalog": 5,
+          "incremental_net_cash": 14.4,
+          "discount_factor": 0.8667841720414474,
+          "present_value": 12.481692077396843
+        },
+        {
+          "half_year": 4,
+          "baseline": 5,
+          "fee_cash": 0,
+          "retained_catalog": 0,
+          "foregone_catalog": 5,
+          "incremental_net_cash": -4.5,
+          "discount_factor": 0.8264462809917354,
+          "present_value": -3.7190082644628095
+        },
+        {
+          "half_year": 5,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 0,
+          "foregone_catalog": 4,
+          "incremental_net_cash": -3.6,
+          "discount_factor": 0.7879856109467703,
+          "present_value": -2.8367481994083734
+        },
+        {
+          "half_year": 6,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 0,
+          "foregone_catalog": 4,
+          "incremental_net_cash": -3.6,
+          "discount_factor": 0.7513148009015775,
+          "present_value": -2.7047332832456794
+        }
+      ],
+      "fee_to_match_best_alternative": 45.96609373015474
+    },
+    {
+      "name": "B - Non-exclusive license",
+      "headline_fee": 24,
+      "incremental_npv": 11.396531484316174,
+      "break_even_fee": 9.755250674919546,
+      "fee_pv_factor": 0.800051389058179,
+      "opportunity_pv": 5.804701853080121,
+      "incremental_undiscounted": 12.85,
+      "year1_incremental_cash": 6.1,
+      "periods": [
+        {
+          "half_year": 1,
+          "baseline": 6,
+          "fee_cash": 6.0,
+          "retained_catalog": 4.5,
+          "foregone_catalog": 1.5,
+          "incremental_net_cash": 4.05,
+          "discount_factor": 0.9534625892455922,
+          "present_value": 3.8615234864446486
+        },
+        {
+          "half_year": 2,
+          "baseline": 6,
+          "fee_cash": 6.0,
+          "retained_catalog": 4.5,
+          "foregone_catalog": 1.5,
+          "incremental_net_cash": 4.05,
+          "discount_factor": 0.9090909090909091,
+          "present_value": 3.6818181818181817
+        },
+        {
+          "half_year": 3,
+          "baseline": 5,
+          "fee_cash": 6.0,
+          "retained_catalog": 3.75,
+          "foregone_catalog": 1.25,
+          "incremental_net_cash": 4.275,
+          "discount_factor": 0.8667841720414474,
+          "present_value": 3.705502335477188
+        },
+        {
+          "half_year": 4,
+          "baseline": 5,
+          "fee_cash": 6.0,
+          "retained_catalog": 3.75,
+          "foregone_catalog": 1.25,
+          "incremental_net_cash": 4.275,
+          "discount_factor": 0.8264462809917354,
+          "present_value": 3.5330578512396693
+        },
+        {
+          "half_year": 5,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 3.0,
+          "foregone_catalog": 1.0,
+          "incremental_net_cash": -0.9,
+          "discount_factor": 0.7879856109467703,
+          "present_value": -0.7091870498520934
+        },
+        {
+          "half_year": 6,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 3.0,
+          "foregone_catalog": 1.0,
+          "incremental_net_cash": -0.9,
+          "discount_factor": 0.7513148009015775,
+          "present_value": -0.6761833208114199
+        }
+      ],
+      "fee_to_match_best_alternative": 25.919871751951227
+    },
+    {
+      "name": "C - Short exclusive window",
+      "headline_fee": 31,
+      "incremental_npv": 12.932527546278314,
+      "break_even_fee": 15.643303057125491,
+      "fee_pv_factor": 0.8421425254653471,
+      "opportunity_pv": 11.373890743147445,
+      "incremental_undiscounted": 13.679999999999998,
+      "year1_incremental_cash": 15.299999999999997,
+      "periods": [
+        {
+          "half_year": 1,
+          "baseline": 6,
+          "fee_cash": 18.599999999999998,
+          "retained_catalog": 0,
+          "foregone_catalog": 6,
+          "incremental_net_cash": 11.339999999999998,
+          "discount_factor": 0.9534625892455922,
+          "present_value": 10.812265762045014
+        },
+        {
+          "half_year": 2,
+          "baseline": 6,
+          "fee_cash": 12.4,
+          "retained_catalog": 0,
+          "foregone_catalog": 6,
+          "incremental_net_cash": 5.760000000000001,
+          "discount_factor": 0.9090909090909091,
+          "present_value": 5.236363636363637
+        },
+        {
+          "half_year": 3,
+          "baseline": 5,
+          "fee_cash": 0,
+          "retained_catalog": 4.5,
+          "foregone_catalog": 0.4999999999999999,
+          "incremental_net_cash": -0.4499999999999999,
+          "discount_factor": 0.8667841720414474,
+          "present_value": -0.39005287741865124
+        },
+        {
+          "half_year": 4,
+          "baseline": 5,
+          "fee_cash": 0,
+          "retained_catalog": 4.5,
+          "foregone_catalog": 0.4999999999999999,
+          "incremental_net_cash": -0.4499999999999999,
+          "discount_factor": 0.8264462809917354,
+          "present_value": -0.37190082644628086
+        },
+        {
+          "half_year": 5,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 3.6,
+          "foregone_catalog": 0.3999999999999999,
+          "incremental_net_cash": -0.35999999999999993,
+          "discount_factor": 0.7879856109467703,
+          "present_value": -0.28367481994083726
+        },
+        {
+          "half_year": 6,
+          "baseline": 4,
+          "fee_cash": 0,
+          "retained_catalog": 3.6,
+          "foregone_catalog": 0.3999999999999999,
+          "incremental_net_cash": -0.35999999999999993,
+          "discount_factor": 0.7513148009015775,
+          "present_value": -0.2704733283245679
+        }
+      ],
+      "fee_to_match_best_alternative": 29.176085382799798
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "catalog_package": "Twelve fictional completed series; US English-language rights only",
+  "annual_discount_rate": 0.10,
+  "participation_rate": 0.10,
+  "baseline_catalog_cash": [6, 6, 5, 5, 4, 4],
+  "offers": [
+    {"name": "A - Full-term exclusive", "description": "Exclusive US package; all modeled baseline opportunities foregone", "total_fee": 42, "payment_weights": [0.5, 0, 0.5, 0, 0, 0], "baseline_retention": [0, 0, 0, 0, 0, 0], "delivery_cost": 1.5},
+    {"name": "B - Non-exclusive license", "description": "Non-exclusive SVOD deal; 75% of baseline remains after overlap", "total_fee": 24, "payment_weights": [0.25, 0.25, 0.25, 0.25, 0, 0], "baseline_retention": [0.75, 0.75, 0.75, 0.75, 0.75, 0.75], "delivery_cost": 2},
+    {"name": "C - Short exclusive window", "description": "Exclusive for two half-years, then 90% baseline retention", "total_fee": 31, "payment_weights": [0.6, 0.4, 0, 0, 0, 0], "baseline_retention": [0, 0, 0.9, 0.9, 0.9, 0.9], "delivery_cost": 1.8}
+  ]
+}

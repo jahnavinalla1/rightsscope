@@ -1,0 +1,10 @@
+{
+  "engine": "Artifact spreadsheet engine; native Excel not tested",
+  "checks": [
+    "All three NPVs, no-deal floors and alternative thresholds reconcile to Python",
+    "Offer fee perturbation changes ranking and recommendation",
+    "Invalid payment fractions surface REVIEW INPUTS; restored"
+  ],
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "restored_baseline": true
+}
