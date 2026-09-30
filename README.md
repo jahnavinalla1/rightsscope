@@ -1,6 +1,6 @@
-# Price the exclusivity: a TV catalog licensing decision
+# RightsScope | Licensing Deal Intelligence
 
-**Independent Sony Pictures FP&A case study · Excel + Python**
+**Independent entertainment FP&A case study · Excel + Python**
 
 Three competing offers. One catalog. **Which contract creates the most value after accounting for the licenses it prevents?**
 
